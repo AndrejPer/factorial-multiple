@@ -9,7 +9,6 @@ Moreover, note that for any positive integer M, M! is the product of all positiv
 Constraints:
 
 1<= T <= 200000
-
 1<= N <= 200000
 
 The general flow of the program is:
